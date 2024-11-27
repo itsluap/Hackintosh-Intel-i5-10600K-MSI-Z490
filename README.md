@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This document provides a detailed guide for installing macOS **Sequoia (15)** on a Hackintosh system featuring an Intel i5-10600k CPU and an MSI Z490 GAMING EDGE WIFI motherboard. The configuration files provided here are optimized for this specific setup and more than likely only work for Sequoia.
+This is an EFI build for macOS **Sequoia (15)** on a Hackintosh system featuring an Intel i5-10600k CPU and an MSI Z490 GAMING EDGE WIFI motherboard. The files provided here are optimized for this specific setup and more than likely only work for Sequoia.
 
 ## Compatibility
 
