@@ -51,7 +51,7 @@ This setup is based on the following components:
 
 ## Acknowledgements
 
-I would like to express my gratitude to [ARGAMX](https://github.com/ARGAMX) for their fantastic EFI configuration, which significantly helped resolve issues like GPU compatibility and display refresh rate problems. Their work provided a solid foundation that made my setup process much smoother. You can find their original repository [here](https://github.com/ARGAMX/Hackintosh-Intel-i9-10850k-MSI-Z490-GAMING-EDGE-WIFI).
+I would like to express my gratitude to [ARGAMX](https://github.com/ARGAMX) for their fantastic EFI configuration, which significantly helped resolve issues like GPU compatibility and display refresh rate problems. Their work provided a solid foundation that made the setup process much smoother. You can find their original repository [here](https://github.com/ARGAMX/Hackintosh-Intel-i9-10850k-MSI-Z490-GAMING-EDGE-WIFI).
 
 ---
 
