@@ -1,6 +1,8 @@
 # Hackintosh Build Guide: Intel i5-10600k & MSI Z490 GAMING EDGE WIFI
 
-![macOS About Screen](*picture*)
+
+![macOS About Screen](https://cdn.discordapp.com/attachments/1213894175221878784/1311277451820662846/Screenshot_2024-11-27_at_2.04.44_AM.png?ex=674845ca&is=6746f44a&hm=45813ea7af47c99c5c0e30143163fd0b375fa0e61d3413f021ba7248b49bae77&)
+
 
 ## Introduction
 
